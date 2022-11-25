@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.gif" width="30px"> JamBot <img src="./assets/cropped_jambot.png" width="30px"></h1>
+<h1 align="center"><img src="./assets/cropped_jambot.png" width="30px"> JamBot <img src="./assets/cropped_jambot.png" width="30px"></h1>
 
 ## 🚧 Prerequisites
 
