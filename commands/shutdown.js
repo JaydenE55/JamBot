@@ -23,30 +23,7 @@ run: async (client, message, args) => {
     if(message.author.id != "341244232591212556") return message.channel.send("You're not bot the owner!")
 
     else {
-        message.channel.send("Resetting...")
-        setTimeout(10)
-        .then(client.destroy())
-
-    }
-}
-}
-
-SlashCommand: {
-    /**
-   *
-   * @param {import("../structures/DiscordMusicBot")} client
-   * @param {import("discord.js").Message} message
-   * @param {string[]} args
-   * @param {*} param3
-*/
-
-
-run: async (client, message, args) => {
-
-    if(message.author.id != "341244232591212556") return message.channel.send("You're not bot the owner!")
-
-    else {
-        message.channel.send("Resetting...")
+        message.channel.send("Shutting Down...")
         setTimeout(10)
         .then(client.destroy())
 
